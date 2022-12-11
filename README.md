@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a back-end web developer <br>I work with python, django, flask, linux And ...
+:earth_asia: I'm a back-end developer<br>🌱 I'm currently developing myself in Django<br>
 
 
 ## 🌐 Socials:
@@ -27,9 +27,6 @@ I'm a back-end web developer <br>I work with python, django, flask, linux And ..
 ![](https://github-readme-stats.vercel.app/api?username=mohsensadegh&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohsensadegh&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsensadegh&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohsensadegh&icon=0&color=0)](https://visitcount.itsvg.in)
